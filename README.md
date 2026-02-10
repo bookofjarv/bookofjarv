@@ -40,6 +40,7 @@ Documenting the journey from Help Desk to Cloud Architect. Building a legacy thr
 * **[Live Portfolio](https://bookofjarv.github.io/theandersonportfolio2026/)**: Central hub for projects, lifestyle vlogs, and services.
 * **[CCNA Networking Labs](https://github.com/bookofjarv/Networking-Labs)**: Time-lapse POV labs, documentation, and Packet Tracer topologies.
 * **[Python Automation Scripts](https://github.com/bookofjarv/Automation-Scripts)**: Custom scripts designed to eliminate repetitive administrative tasks.
+  
 
 ---
 
