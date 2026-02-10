@@ -1,10 +1,11 @@
 # 👋 Hello, I'm Jarvis Anderson | BookofJarv
 
 <div align="center">
-  <img src="ai generated image 1.jpg" width="350" alt="Jarvis Anderson - IT Technician">
-  <br>
-  <i>"Locking in for the legacy. Building systems, not just tasks."</i>
+ 
+<img width="350" height="500" alt="ai generated image 1" src="https://github.com/user-attachments/assets/8a58008e-5388-4cf5-9c1e-bcf1af5212a9" />
+ 
 </div>
+ 
 
 ### 🚀 Aspiring Network Engineer & Founder of KodeKouncil
 Documenting the journey from Help Desk to Cloud Architect. Building a legacy through technical mastery, faith, and financial independence.
